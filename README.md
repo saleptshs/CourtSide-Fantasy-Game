@@ -4,7 +4,11 @@ Local, single-device fantasy auction app for παρέες. Ο Host τρέχει 
 εφαρμογή στο κινητό του, ορίζει budget, και καταγράφει χειροκίνητα τις
 μεταγραφές καθώς εξελίσσεται η δημοπρασία.
 
-## Εκτέλεση (Expo / χωρίς Xcode ή Android Studio)
+## 📲 Εγκατάσταση σε Android (APK)
+
+Μπορείτε να κατεβάσετε και να εγκαταστήσετε την εφαρμογή απευθείας στο Android κινητό σας!
+
+## Δεύτερος Τρόπος (Expo / χωρίς Xcode ή Android Studio)
 
 1. Εγκατάστησε το [Expo Go](https://expo.dev/go) στο κινητό σου (App Store / Play Store).
 2. Στον υπολογιστή:

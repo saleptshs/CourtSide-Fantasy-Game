@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Courtside",
+    "slug": "courtside",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A0A0A",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0A"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.local.courtside",
+      "icon": "./assets/icon.png",
+      "backgroundColor": "#0A0A0A"
+    },
+    "android": {
+      "package": "com.local.courtside",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A0A0A"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-splash-screen",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "162a17ba-3c07-40bc-a0d0-405cff70ed0b"
+      }
+    }
+  }
+}

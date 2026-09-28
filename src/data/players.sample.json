@@ -1,0 +1,4074 @@
+{
+  "basketball": {
+    "2026-2027": [
+      {
+        "id": "bball-2627-efs-01",
+        "name": "Mike James",
+        "role": "player",
+        "position": "PG",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-efs-02",
+        "name": "Jordan Loyd",
+        "role": "player",
+        "position": "SG",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-efs-03",
+        "name": "Matthew Strazel",
+        "role": "player",
+        "position": "PG",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-efs-04",
+        "name": "Santi Yusta",
+        "role": "player",
+        "position": "SF",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-efs-05",
+        "name": "Daron Russell",
+        "role": "player",
+        "position": "SG",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-efs-06",
+        "name": "Collin Malcolm",
+        "role": "player",
+        "position": "PF",
+        "team": "Anadolu Efes",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-01",
+        "name": "Scottie Wilbekin",
+        "role": "player",
+        "position": "PG",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-02",
+        "name": "Furkan Korkmaz",
+        "role": "player",
+        "position": "SG",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "Turkey",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-03",
+        "name": "David DeJulius",
+        "role": "player",
+        "position": "PG",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-04",
+        "name": "Wenyen Gabriel",
+        "role": "player",
+        "position": "PF",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "South Sudan",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-05",
+        "name": "Eugene Omoruyi",
+        "role": "player",
+        "position": "SF",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "Nigeria/Canada",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-06",
+        "name": "Mady Sissoko",
+        "role": "player",
+        "position": "C",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "Mali",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bsk-07",
+        "name": "Dusan Alimpijevic",
+        "role": "coach",
+        "position": "HC",
+        "team": "Beşiktaş",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-01",
+        "name": "Damion Baugh",
+        "role": "player",
+        "position": "PG",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-02",
+        "name": "AJ Lawson",
+        "role": "player",
+        "position": "SG",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "Canada",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-03",
+        "name": "Chris Duarte",
+        "role": "player",
+        "position": "SG",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "Dominican Republic",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-04",
+        "name": "D.J. Stewart",
+        "role": "player",
+        "position": "SF",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-05",
+        "name": "Kobi Simmons",
+        "role": "player",
+        "position": "PG",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bas-06",
+        "name": "Paolo Galbiati",
+        "role": "coach",
+        "position": "HC",
+        "team": "Kosner Baskonia",
+        "league": "EuroLeague",
+        "nationality": "Italy",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-01",
+        "name": "Nick Weiler-Babb",
+        "role": "player",
+        "position": "SF",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-02",
+        "name": "Patrick Baldwin Jr.",
+        "role": "player",
+        "position": "PF",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-03",
+        "name": "Johnathan Motley",
+        "role": "player",
+        "position": "C",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-04",
+        "name": "David Kramer",
+        "role": "player",
+        "position": "SG",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "Switzerland",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-05",
+        "name": "Chris Jones",
+        "role": "player",
+        "position": "PG",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-06",
+        "name": "Nemanja Nedović",
+        "role": "player",
+        "position": "SG",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-czv-07",
+        "name": "Ibon Navarro",
+        "role": "coach",
+        "position": "HC",
+        "team": "Crvena Zvezda",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-01",
+        "name": "Thomas Walkup",
+        "role": "player",
+        "position": "SG",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-02",
+        "name": "Toko Shengelia",
+        "role": "player",
+        "position": "PF",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "Georgia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-03",
+        "name": "Elie Okobo",
+        "role": "player",
+        "position": "PG",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-04",
+        "name": "Mamadi Diakite",
+        "role": "player",
+        "position": "C",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "Guinea",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-05",
+        "name": "McKinley Wright IV",
+        "role": "player",
+        "position": "PG",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-06",
+        "name": "Davion Mintz",
+        "role": "player",
+        "position": "SG",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-dub-07",
+        "name": "Xavi Pascual",
+        "role": "coach",
+        "position": "HC",
+        "team": "Dubai Basketball",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-01",
+        "name": "Stefano Tonut",
+        "role": "player",
+        "position": "SG",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "Italy",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-02",
+        "name": "R.J. Cole",
+        "role": "player",
+        "position": "PG",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-03",
+        "name": "Moses Wright",
+        "role": "player",
+        "position": "PF",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-04",
+        "name": "Garrison Mathews",
+        "role": "player",
+        "position": "SG",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-05",
+        "name": "Ousmane Diop",
+        "role": "player",
+        "position": "C",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "Senegal",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mil-06",
+        "name": "Devon Hall",
+        "role": "player",
+        "position": "SF",
+        "team": "Olimpia Milano",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-01",
+        "name": "Tosan Evbuomwan",
+        "role": "player",
+        "position": "PF",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "UK",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-02",
+        "name": "Tyrese Martin",
+        "role": "player",
+        "position": "SG",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-03",
+        "name": "Aleksander Balcerowski",
+        "role": "player",
+        "position": "C",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "Poland",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-04",
+        "name": "Stanley Umude",
+        "role": "player",
+        "position": "SF",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-05",
+        "name": "Justin Robinson",
+        "role": "player",
+        "position": "PG",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-06",
+        "name": "Josh Nebo",
+        "role": "player",
+        "position": "C",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-07",
+        "name": "Olivier Nkamhoua",
+        "role": "player",
+        "position": "PF",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "Finland",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bar-08",
+        "name": "Aleksander Sekulić",
+        "role": "coach",
+        "position": "HC",
+        "team": "FC Barcelona",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-01",
+        "name": "MarJon Beauchamp",
+        "role": "player",
+        "position": "SF",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-02",
+        "name": "Duane Washington Jr.",
+        "role": "player",
+        "position": "SG",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-03",
+        "name": "Miles Norris",
+        "role": "player",
+        "position": "PF",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-04",
+        "name": "Tobias Jensen",
+        "role": "player",
+        "position": "SG",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "Denmark",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-05",
+        "name": "Austin Wiley",
+        "role": "player",
+        "position": "C",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-bay-06",
+        "name": "Anton Gavel",
+        "role": "coach",
+        "position": "HC",
+        "team": "FC Bayern Munich",
+        "league": "EuroLeague",
+        "nationality": "Slovakia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-01",
+        "name": "Shane Larkin",
+        "role": "player",
+        "position": "PG",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "USA/Turkey",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-02",
+        "name": "Johnny Juzang",
+        "role": "player",
+        "position": "SG",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-03",
+        "name": "Melih Mahmutoğlu",
+        "role": "player",
+        "position": "SG",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "Turkey",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-04",
+        "name": "Will Clyburn",
+        "role": "player",
+        "position": "SF",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-05",
+        "name": "Marcus Bingham Jr.",
+        "role": "player",
+        "position": "C",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-06",
+        "name": "Trent Forrest",
+        "role": "player",
+        "position": "PG",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-fen-07",
+        "name": "Sertaç Şanlı",
+        "role": "player",
+        "position": "C",
+        "team": "Fenerbahçe",
+        "league": "EuroLeague",
+        "nationality": "Turkey",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-01",
+        "name": "Tamir Blatt",
+        "role": "player",
+        "position": "PG",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Israel",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-02",
+        "name": "Jacob Toppin",
+        "role": "player",
+        "position": "SF",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-03",
+        "name": "Zach LeDay",
+        "role": "player",
+        "position": "PF",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-04",
+        "name": "Dan Oturu",
+        "role": "player",
+        "position": "C",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-05",
+        "name": "Tomas Satoransky",
+        "role": "player",
+        "position": "PG",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Czech Republic",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-06",
+        "name": "Elijah Bryant",
+        "role": "player",
+        "position": "SG",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-hap-07",
+        "name": "Khadeen Carrington",
+        "role": "player",
+        "position": "SG",
+        "team": "Hapoel Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-01",
+        "name": "Tremont Waters",
+        "role": "player",
+        "position": "PG",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-02",
+        "name": "Hugo Besson",
+        "role": "player",
+        "position": "SG",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-03",
+        "name": "Jae Crowder",
+        "role": "player",
+        "position": "PF",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-04",
+        "name": "Myles Cale",
+        "role": "player",
+        "position": "SF",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-05",
+        "name": "Patty Mills",
+        "role": "player",
+        "position": "PG",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "Australia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-06",
+        "name": "Joel Bolomboy",
+        "role": "player",
+        "position": "C",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-asv-07",
+        "name": "Edwin Jackson",
+        "role": "player",
+        "position": "PG",
+        "team": "LDLC ASVEL",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-01",
+        "name": "Keaton Wallace",
+        "role": "player",
+        "position": "SG",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-02",
+        "name": "Yam Madar",
+        "role": "player",
+        "position": "PG",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Israel",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-03",
+        "name": "Daniel Theis",
+        "role": "player",
+        "position": "C",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Germany",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-04",
+        "name": "Armando Bacot Jr.",
+        "role": "player",
+        "position": "C",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-05",
+        "name": "Oshae Brissett",
+        "role": "player",
+        "position": "SF",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Canada",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-06",
+        "name": "Iffe Lundberg",
+        "role": "player",
+        "position": "SG",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "Denmark",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mac-07",
+        "name": "Bonzie Colson",
+        "role": "player",
+        "position": "PF",
+        "team": "Maccabi Tel Aviv",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-01",
+        "name": "Kostas Papanikolaou",
+        "role": "player",
+        "position": "SF",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-02",
+        "name": "Cory Joseph",
+        "role": "player",
+        "position": "PG",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Canada",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-03",
+        "name": "Jean Montero",
+        "role": "player",
+        "position": "PG",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Dominican Republic",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-04",
+        "name": "Codi Miller-McIntyre",
+        "role": "player",
+        "position": "SG",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-05",
+        "name": "Nikos Plotas",
+        "role": "player",
+        "position": "SG",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-06",
+        "name": "Mbaye Ndiaye",
+        "role": "player",
+        "position": "PF",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-oly-07",
+        "name": "Georgios Bartzokas",
+        "role": "coach",
+        "position": "HC",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-01",
+        "name": "Kendrick Nunn",
+        "role": "player",
+        "position": "SG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-02",
+        "name": "Kostas Sloukas",
+        "role": "player",
+        "position": "PG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-03",
+        "name": "Mathias Lessort",
+        "role": "player",
+        "position": "C",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-04",
+        "name": "Sylvain Francisco",
+        "role": "player",
+        "position": "PG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Central African Republic",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-05",
+        "name": "Juancho Hernangómez",
+        "role": "player",
+        "position": "PF",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-06",
+        "name": "Guerschon Yabusele",
+        "role": "player",
+        "position": "PF",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-07",
+        "name": "Isaac Bonga",
+        "role": "player",
+        "position": "SF",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Germany",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-08",
+        "name": "Brancou Badio",
+        "role": "player",
+        "position": "SG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-09",
+        "name": "Moustapha Fall",
+        "role": "player",
+        "position": "C",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "France/Senegal",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-pao-10",
+        "name": "Željko Obradović",
+        "role": "coach",
+        "position": "HC",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-01",
+        "name": "Frank Ntilikina",
+        "role": "player",
+        "position": "PG",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-02",
+        "name": "Nobel Boungou-Colo",
+        "role": "player",
+        "position": "SG",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-03",
+        "name": "Daulton Hommes",
+        "role": "player",
+        "position": "SF",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "Netherlands",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-04",
+        "name": "TJ Warren",
+        "role": "player",
+        "position": "SF",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-05",
+        "name": "Tyson Etienne",
+        "role": "player",
+        "position": "SG",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-prs-06",
+        "name": "Max Lefevre",
+        "role": "coach",
+        "position": "HC",
+        "team": "Paris Basketball",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-01",
+        "name": "Jabari Parker",
+        "role": "player",
+        "position": "PF",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-02",
+        "name": "Ethan Thompson",
+        "role": "player",
+        "position": "SG",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-03",
+        "name": "Alessandro Pajola",
+        "role": "player",
+        "position": "PG",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "Italy",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-04",
+        "name": "Luca Vildoza",
+        "role": "player",
+        "position": "PG",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "Argentina",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-05",
+        "name": "Lamar Stevens",
+        "role": "player",
+        "position": "PF",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-06",
+        "name": "Vanja Marinković",
+        "role": "player",
+        "position": "SF",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-07",
+        "name": "Kevarrius Hayes",
+        "role": "player",
+        "position": "C",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-par-08",
+        "name": "Nikola Tanasković",
+        "role": "player",
+        "position": "C",
+        "team": "Partizan",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-01",
+        "name": "Sergio Llull",
+        "role": "player",
+        "position": "SG",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-02",
+        "name": "Facundo Campazzo",
+        "role": "player",
+        "position": "PG",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Argentina",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-03",
+        "name": "Mario Hezonja",
+        "role": "player",
+        "position": "SF",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Croatia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-04",
+        "name": "Gabriel Deck",
+        "role": "player",
+        "position": "PF",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Argentina",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-05",
+        "name": "Andrés Feliz",
+        "role": "player",
+        "position": "PG",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Dominican Republic",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-06",
+        "name": "Théo Maledon",
+        "role": "player",
+        "position": "PG",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-07",
+        "name": "Timothe Luwawu-Cabarrot",
+        "role": "player",
+        "position": "SF",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-08",
+        "name": "Olivier Sarr",
+        "role": "player",
+        "position": "C",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "France",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-09",
+        "name": "Eli Ndiaye",
+        "role": "player",
+        "position": "PF",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Spain/Senegal",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-mad-10",
+        "name": "Pedro Martínez",
+        "role": "coach",
+        "position": "HC",
+        "team": "Real Madrid",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-01",
+        "name": "Armoni Brooks",
+        "role": "player",
+        "position": "SG",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-02",
+        "name": "TJ Shorts",
+        "role": "player",
+        "position": "PG",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-03",
+        "name": "Dylan Osetkowski",
+        "role": "player",
+        "position": "PF",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-04",
+        "name": "Gonzalo Corbalán",
+        "role": "player",
+        "position": "SG",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "Argentina",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-05",
+        "name": "Mouhamadou Gueye",
+        "role": "player",
+        "position": "C",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "Senegal",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-val-06",
+        "name": "Lucas Mari",
+        "role": "player",
+        "position": "SF",
+        "team": "Valencia Basket",
+        "league": "EuroLeague",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-01",
+        "name": "Marcus Carr",
+        "role": "player",
+        "position": "PG",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-02",
+        "name": "Wendell Moore Jr.",
+        "role": "player",
+        "position": "SG",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-03",
+        "name": "Kessler Edwards",
+        "role": "player",
+        "position": "SF",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-04",
+        "name": "Bobi Klintman",
+        "role": "player",
+        "position": "PF",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "Sweden",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-05",
+        "name": "Trent Frazier",
+        "role": "player",
+        "position": "SG",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-06",
+        "name": "Tommaso Baldasso",
+        "role": "player",
+        "position": "PG",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "Italy",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-vir-07",
+        "name": "Rasheed Bello",
+        "role": "player",
+        "position": "SG",
+        "team": "Virtus Bologna",
+        "league": "EuroLeague",
+        "nationality": "Nigeria",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-01",
+        "name": "Jonas Valančiūnas",
+        "role": "player",
+        "position": "C",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "Lithuania",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-02",
+        "name": "Carsen Edwards",
+        "role": "player",
+        "position": "SG",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-03",
+        "name": "Marius Grigonis",
+        "role": "player",
+        "position": "SF",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "Lithuania",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-04",
+        "name": "Marek Blažević",
+        "role": "player",
+        "position": "PF",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "Croatia/Bosnia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-05",
+        "name": "Keenan Evans",
+        "role": "player",
+        "position": "PG",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2627-zal-06",
+        "name": "Kaodirichi Akobundu-Ehiogu",
+        "role": "player",
+        "position": "C",
+        "team": "Žalgiris",
+        "league": "EuroLeague",
+        "nationality": "Nigeria",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Flionis",
+        "role": "player",
+        "position": "PG",
+        "team": "AEK Athens BC",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0001",
+        "photoUrl": null
+      },
+      {
+        "name": "Antonis Koniaris",
+        "role": "player",
+        "position": "PG",
+        "team": "Maroussi BC",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0002",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Persidis",
+        "role": "player",
+        "position": "SF",
+        "team": "PAOK BC",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0003",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Poulos",
+        "role": "player",
+        "position": "SG",
+        "team": "Promitheas Patras",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0004",
+        "photoUrl": null
+      },
+      {
+        "name": "Kostas Papadakis",
+        "role": "player",
+        "position": "SG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0005",
+        "photoUrl": null
+      },
+      {
+        "name": "Tytan Anderson",
+        "role": "player",
+        "position": "SF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0006",
+        "photoUrl": null
+      },
+      {
+        "name": "Will Carius",
+        "role": "player",
+        "position": "C",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0007",
+        "photoUrl": null
+      },
+      {
+        "name": "Manos Chatzidakis",
+        "role": "player",
+        "position": "SG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0008",
+        "photoUrl": null
+      },
+      {
+        "name": "Jalen Finch",
+        "role": "player",
+        "position": "SG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0009",
+        "photoUrl": null
+      },
+      {
+        "name": "Giorgos Gkiouzelis",
+        "role": "player",
+        "position": "PF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0010",
+        "photoUrl": null
+      },
+      {
+        "name": "John Ittounas",
+        "role": "player",
+        "position": "SF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0011",
+        "photoUrl": null
+      },
+      {
+        "name": "Ty Nichols",
+        "role": "player",
+        "position": "PG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0012",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexandros Nikolaidis",
+        "role": "player",
+        "position": "PF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0013",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Papageorgiou",
+        "role": "player",
+        "position": "PG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0014",
+        "photoUrl": null
+      },
+      {
+        "name": "Omar Payne",
+        "role": "player",
+        "position": "C",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0015",
+        "photoUrl": null
+      },
+      {
+        "name": "Paul Scruggs",
+        "role": "player",
+        "position": "SG",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "USA",
+        "id": "bball-2627-gbl-0016",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexandros Thomakos",
+        "role": "player",
+        "position": "SF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0017",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Tziallas",
+        "role": "player",
+        "position": "PF",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0018",
+        "photoUrl": null
+      },
+      {
+        "name": "Vassilis Xanthopoulos",
+        "role": "coach",
+        "position": "HC",
+        "team": "Peristeri Betsson",
+        "league": "Greek Basket League",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl-0019",
+        "photoUrl": null
+      },
+      {
+        "name": "N.J. Benson",
+        "role": "player",
+        "position": "PF",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0161",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Payton Willis",
+        "role": "player",
+        "position": "SG",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0162",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Rocky Kreuser",
+        "role": "player",
+        "position": "PF",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0163",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Tsiakmas",
+        "role": "player",
+        "position": "PG",
+        "team": "Kolossos Rodou",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0164",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "C.J. Harris",
+        "role": "player",
+        "position": "SG",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0165",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Devonte Upson",
+        "role": "player",
+        "position": "C",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0166",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Ezra Manjon",
+        "role": "player",
+        "position": "PG",
+        "team": "Kolossos Rodou",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0167",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Zois Karampelas",
+        "role": "player",
+        "position": "PG",
+        "team": "Kolossos Rodou",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0168",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Hassan Diarra",
+        "role": "player",
+        "position": "PG",
+        "team": "Iraklis",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0169",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "D.J. Funderburk",
+        "role": "player",
+        "position": "PF",
+        "team": "Iraklis",
+        "nationality": "USA",
+        "id": "bball-2627-gbl2-0170",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Papanikolopoulos",
+        "role": "coach",
+        "position": "HC",
+        "team": "Karditsa",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0171",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Sotiris Billis",
+        "role": "player",
+        "position": "SF",
+        "team": "Mykonos",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0172",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Marios Poulianitis",
+        "role": "player",
+        "position": "PG",
+        "team": "Doxa Lefkadas",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0173",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Costis Gontikas",
+        "role": "player",
+        "position": "C",
+        "team": "Vikos Falcons",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0174",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Diplaros",
+        "role": "player",
+        "position": "PG",
+        "team": "Promitheas Patras",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0175",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Stelios Poulianitis",
+        "role": "player",
+        "position": "PG",
+        "team": "Aris",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0176",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Giorgos Fillios",
+        "role": "player",
+        "position": "PG",
+        "team": "PAOK BC",
+        "nationality": "Greece",
+        "id": "bball-2627-gbl2-0177",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "RaiQuan Gray",
+        "role": "player",
+        "position": "SF",
+        "team": "AEK Athens BC",
+        "nationality": "USA",
+        "id": "bball-2627-gap-0178",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Vasilis Charalampopoulos",
+        "role": "player",
+        "position": "SG",
+        "team": "AEK Athens BC",
+        "nationality": "Greece",
+        "id": "bball-2627-gap-0179",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Chris Silva",
+        "role": "player",
+        "position": "PF",
+        "team": "AEK Athens BC",
+        "nationality": "Gabon",
+        "id": "bball-2627-gap-0180",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Derrick Williams",
+        "role": "player",
+        "position": "PF",
+        "team": "AEK Athens BC",
+        "nationality": "USA",
+        "id": "bball-2627-gap-0181",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Jordan Walker",
+        "role": "player",
+        "position": "SG",
+        "team": "Maroussi BC",
+        "nationality": "USA",
+        "id": "bball-2627-gap-0182",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "London Perrantes",
+        "role": "player",
+        "position": "PG",
+        "team": "Maroussi BC",
+        "nationality": "USA",
+        "id": "bball-2627-gap-0183",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Jordan Ogundiran",
+        "role": "player",
+        "position": "SG",
+        "team": "Maroussi BC",
+        "nationality": "USA",
+        "id": "bball-2627-gap-0184",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Ioannis Kouzeloglou",
+        "role": "player",
+        "position": "C",
+        "team": "Maroussi BC",
+        "nationality": "Greece",
+        "id": "bball-2627-gap-0185",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Arsenopoulos",
+        "role": "player",
+        "position": "SG",
+        "team": "Doxa Lefkadas",
+        "nationality": "Greece",
+        "id": "bball-2627-gap-0186",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Aaron Estrada",
+        "role": "player",
+        "position": "PG",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0187",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Chris Smith",
+        "role": "player",
+        "position": "SG",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0188",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Mike Bothwell",
+        "role": "player",
+        "position": "SG",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0189",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "El Ellis",
+        "role": "player",
+        "position": "PG",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0190",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Damien Jefferson",
+        "role": "player",
+        "position": "SF",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0191",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Noah Horchler",
+        "role": "player",
+        "position": "PF",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0192",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Warren Washington",
+        "role": "player",
+        "position": "C",
+        "team": "Karditsa",
+        "nationality": "USA",
+        "id": "bball-2627-gap2-0193",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Konstantinos Bilalis",
+        "role": "player",
+        "position": "PG",
+        "team": "Karditsa",
+        "nationality": "Greece",
+        "id": "bball-2627-gap2-0194",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Vassilis Kavvadas",
+        "role": "player",
+        "position": "C",
+        "team": "Mykonos",
+        "nationality": "Greece",
+        "id": "bball-2627-gap2-0195",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Gravas",
+        "role": "player",
+        "position": "PF",
+        "team": "Vikos Falcons",
+        "nationality": "Greece",
+        "id": "bball-2627-gap2-0196",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      },
+      {
+        "name": "Vassilis Christidis",
+        "role": "player",
+        "position": "C",
+        "team": "Kolossos Rodou",
+        "nationality": "Greece",
+        "id": "bball-2627-gap2-0197",
+        "league": "Greek Basket League",
+        "photoUrl": null
+      }
+    ],
+    "2025-2026": [
+      {
+        "id": "bball-2526-0001",
+        "name": "Kendrick Nunn",
+        "role": "player",
+        "position": "SG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0002",
+        "name": "Kostas Sloukas",
+        "role": "player",
+        "position": "PG",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0003",
+        "name": "Ergin Ataman",
+        "role": "coach",
+        "position": "HC",
+        "team": "Panathinaikos AKTOR",
+        "league": "EuroLeague",
+        "nationality": "Turkey",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0004",
+        "name": "Kendrick Perry",
+        "role": "player",
+        "position": "PG",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "USA",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0005",
+        "name": "Sasha Vezenkov",
+        "role": "player",
+        "position": "PF",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Bulgaria",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0006",
+        "name": "Nikola Milutinov",
+        "role": "player",
+        "position": "C",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Serbia",
+        "photoUrl": null
+      },
+      {
+        "id": "bball-2526-0007",
+        "name": "Georgios Bartzokas",
+        "role": "coach",
+        "position": "HC",
+        "team": "Olympiacos",
+        "league": "EuroLeague",
+        "nationality": "Greece",
+        "photoUrl": null
+      }
+    ]
+  },
+  "football": {
+    "2026-2027": [
+      {
+        "id": "foot-2627-0001",
+        "name": "Fran Navarro",
+        "role": "player",
+        "position": "FWD",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0002",
+        "name": "Bart Lochocki",
+        "role": "player",
+        "position": "FWD",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Poland",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0003",
+        "name": "Tin Jedvaj",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Croatia",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0004",
+        "name": "Bernard Tekpetey",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Ghana",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0005",
+        "name": "Alberto Brignoli",
+        "role": "player",
+        "position": "GK",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Italy",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0006",
+        "name": "El Fardou Ben",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "league": "Super League Greece",
+        "nationality": "Comoros",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0007",
+        "name": "Konstantinos Tsimikas",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "league": "Super League Greece",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2627-0010",
+        "name": "Giorgos Masouras",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "league": "Super League Greece",
+        "nationality": "Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Thomas Strakosha",
+        "role": "player",
+        "position": "GK",
+        "team": "AEK Athens",
+        "nationality": "Albania",
+        "id": "foot-2627-sl-0001",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alberto Brignoli",
+        "role": "player",
+        "position": "GK",
+        "team": "AEK Athens",
+        "nationality": "Italy",
+        "id": "foot-2627-sl-0002",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Harold Moukoudi",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Cameroon",
+        "id": "foot-2627-sl-0003",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Stavros Pilios",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Albania",
+        "id": "foot-2627-sl-0004",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Lazaros Rota",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0005",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Martin Georgiev",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Bulgaria",
+        "id": "foot-2627-sl-0006",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Domagoj Vida",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Croatia",
+        "id": "foot-2627-sl-0007",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexander Callens",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Peru",
+        "id": "foot-2627-sl-0008",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "James Penrice",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Scotland",
+        "id": "foot-2627-sl-0009",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Filipe Relvas",
+        "role": "player",
+        "position": "DEF",
+        "team": "AEK Athens",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0010",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Marko Grujić",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0011",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Mijat Gaćinović",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0012",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "João Mário",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0013",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Orbelín Pineda",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Mexico",
+        "id": "foot-2627-sl-0014",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Kaloskamis",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0015",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Răzvan Marin",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Romania",
+        "id": "foot-2627-sl-0016",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Niclas Eliasson",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Sweden",
+        "id": "foot-2627-sl-0017",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Petros Mantalos",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0018",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Robert Ljubičić",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Croatia",
+        "id": "foot-2627-sl-0019",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Roberto Pereyra",
+        "role": "player",
+        "position": "MID",
+        "team": "AEK Athens",
+        "nationality": "Argentina",
+        "id": "foot-2627-sl-0020",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dereck Kutesa",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Switzerland",
+        "id": "foot-2627-sl-0021",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Luka Jović",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0022",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Aboubakary Koïta",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Mauritania",
+        "id": "foot-2627-sl-0023",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Barnabás Varga",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Hungary",
+        "id": "foot-2627-sl-0024",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Zini",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Angola",
+        "id": "foot-2627-sl-0025",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Marko Nikolić",
+        "role": "coach",
+        "position": "HC",
+        "team": "AEK Athens",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0026",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Stefan Ortega",
+        "role": "player",
+        "position": "GK",
+        "team": "Olympiacos FC",
+        "nationality": "Germany",
+        "id": "foot-2627-sl-0027",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Balša Popović",
+        "role": "player",
+        "position": "GK",
+        "team": "Olympiacos FC",
+        "nationality": "Montenegro",
+        "id": "foot-2627-sl-0028",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Manolis Saliakas",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0029",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Zinedin Smajlović",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Sweden",
+        "id": "foot-2627-sl-0030",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Lorenzo Pirola",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Italy",
+        "id": "foot-2627-sl-0031",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "David Carmo",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0032",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Marcus Pedersen",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Norway",
+        "id": "foot-2627-sl-0033",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Panagiotis Retsos",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0034",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Bruno Onyemaechi",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Nigeria",
+        "id": "foot-2627-sl-0035",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Nair Tiknizyan",
+        "role": "player",
+        "position": "DEF",
+        "team": "Olympiacos FC",
+        "nationality": "Armenia",
+        "id": "foot-2627-sl-0036",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Kostas Fortounis",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0037",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Gustavo Sá",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0038",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Gelson Martins",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0039",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dani García",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Spain",
+        "id": "foot-2627-sl-0040",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Gustavo Puerta",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Colombia",
+        "id": "foot-2627-sl-0041",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Leon Bailey",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Jamaica",
+        "id": "foot-2627-sl-0042",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Remo Freuler",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Switzerland",
+        "id": "foot-2627-sl-0043",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Chiquinho",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0044",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Santiago Hezze",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Argentina",
+        "id": "foot-2627-sl-0045",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Yusuf Yazıcı",
+        "role": "player",
+        "position": "MID",
+        "team": "Olympiacos FC",
+        "nationality": "Turkey",
+        "id": "foot-2627-sl-0046",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Ayoub El Kaabi",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "nationality": "Morocco",
+        "id": "foot-2627-sl-0047",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Roman Yaremchuk",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "nationality": "Ukraine",
+        "id": "foot-2627-sl-0048",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Jota Silva",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0049",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Armando González",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "nationality": "Mexico",
+        "id": "foot-2627-sl-0050",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Clayton",
+        "role": "player",
+        "position": "FWD",
+        "team": "Olympiacos FC",
+        "nationality": "Brazil",
+        "id": "foot-2627-sl-0051",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "José Luis Mendilibar",
+        "role": "coach",
+        "position": "HC",
+        "team": "Olympiacos FC",
+        "nationality": "Spain",
+        "id": "foot-2627-sl-0052",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alban Lafont",
+        "role": "player",
+        "position": "GK",
+        "team": "Panathinaikos FC",
+        "nationality": "Ivory Coast",
+        "id": "foot-2627-sl-0053",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Bartlomiej Dragowski",
+        "role": "player",
+        "position": "GK",
+        "team": "Panathinaikos FC",
+        "nationality": "Poland",
+        "id": "foot-2627-sl-0054",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Davide Calabria",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Italy",
+        "id": "foot-2627-sl-0055",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Ahmed Touba",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Algeria",
+        "id": "foot-2627-sl-0056",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Erik Palmer-Brown",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "USA",
+        "id": "foot-2627-sl-0057",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Sverrir Ingi Ingason",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Iceland",
+        "id": "foot-2627-sl-0058",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Philipp Max",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Germany",
+        "id": "foot-2627-sl-0059",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Filip Mladenovic",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0060",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giorgos Kyriakopoulos",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0061",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Manolis Siopis",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0062",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Renato Sanches",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0063",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Pedro Chirivella",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "nationality": "Spain",
+        "id": "foot-2627-sl-0064",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Anastasios Bakasetas",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0065",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Facundo Pellistri",
+        "role": "player",
+        "position": "MID",
+        "team": "Panathinaikos FC",
+        "nationality": "Uruguay",
+        "id": "foot-2627-sl-0066",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Stefan de Vrij",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panathinaikos FC",
+        "nationality": "Netherlands",
+        "id": "foot-2627-sl-0067",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Jacob Neestrup",
+        "role": "coach",
+        "position": "HC",
+        "team": "Panathinaikos FC",
+        "nationality": "Denmark",
+        "id": "foot-2627-sl-0068",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giannis Konstantelias",
+        "role": "player",
+        "position": "MID",
+        "team": "PAOK",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0069",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Magomed Ozdoyev",
+        "role": "player",
+        "position": "MID",
+        "team": "PAOK",
+        "nationality": "Russia",
+        "id": "foot-2627-sl-0070",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Andrija Živković",
+        "role": "player",
+        "position": "MID",
+        "team": "PAOK",
+        "nationality": "Serbia",
+        "id": "foot-2627-sl-0071",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Mady Camara",
+        "role": "player",
+        "position": "MID",
+        "team": "PAOK",
+        "nationality": "Guinea",
+        "id": "foot-2627-sl-0072",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alessio Lisci",
+        "role": "coach",
+        "position": "HC",
+        "team": "PAOK",
+        "nationality": "Italy",
+        "id": "foot-2627-sl-0073",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Sebastián Leto",
+        "role": "coach",
+        "position": "HC",
+        "team": "A.E. Kifisia",
+        "nationality": "Argentina",
+        "id": "foot-2627-sl-0074",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Hugo Sousa",
+        "role": "player",
+        "position": "GK",
+        "team": "A.E. Kifisia",
+        "nationality": "Portugal",
+        "id": "foot-2627-sl-0075",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Michalis Grigoriou",
+        "role": "coach",
+        "position": "HC",
+        "team": "Aris",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0076",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Fabiano Leismann",
+        "role": "player",
+        "position": "FWD",
+        "team": "Aris",
+        "nationality": "Brazil",
+        "id": "foot-2627-sl-0077",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Georgios Antonopoulos",
+        "role": "coach",
+        "position": "HC",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0078",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Kourbelis",
+        "role": "player",
+        "position": "MID",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0079",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dušan Kerkez",
+        "role": "coach",
+        "position": "HC",
+        "team": "Atromitos",
+        "nationality": "Bosnia",
+        "id": "foot-2627-sl-0080",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Lefteris Choutesiotis",
+        "role": "player",
+        "position": "MID",
+        "team": "Atromitos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0081",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Walter Mazzarri",
+        "role": "coach",
+        "position": "HC",
+        "team": "Iraklis",
+        "nationality": "Italy",
+        "id": "foot-2627-sl-0082",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Kristian Kushta",
+        "role": "player",
+        "position": "MID",
+        "team": "Iraklis",
+        "nationality": "Albania",
+        "id": "foot-2627-sl-0083",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Panagiotis Christofileas",
+        "role": "coach",
+        "position": "HC",
+        "team": "Kalamata",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0084",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Ioannis Gelios",
+        "role": "player",
+        "position": "GK",
+        "team": "Kalamata",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0085",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Elias Charalambous",
+        "role": "coach",
+        "position": "HC",
+        "team": "Levadiakos",
+        "nationality": "Cyprus",
+        "id": "foot-2627-sl-0086",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Panagiotis Liagas",
+        "role": "player",
+        "position": "MID",
+        "team": "Levadiakos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0087",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Christos Kontis",
+        "role": "coach",
+        "position": "HC",
+        "team": "OFI",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0088",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Thanasis Androutsos",
+        "role": "player",
+        "position": "DEF",
+        "team": "OFI",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0089",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giannis Anastasiou",
+        "role": "coach",
+        "position": "HC",
+        "team": "Panetolikos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0090",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Charalampos Mavrias",
+        "role": "player",
+        "position": "MID",
+        "team": "Panetolikos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0091",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Kostas Bratsos",
+        "role": "coach",
+        "position": "HC",
+        "team": "Volos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0092",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Tasos Tsokanis",
+        "role": "player",
+        "position": "DEF",
+        "team": "Volos",
+        "nationality": "Greece",
+        "id": "foot-2627-sl-0093",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Kylian Mbappé",
+        "role": "player",
+        "position": "FWD",
+        "team": "Real Madrid",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0001",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Vinícius Júnior",
+        "role": "player",
+        "position": "FWD",
+        "team": "Real Madrid",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl-0002",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Jude Bellingham",
+        "role": "player",
+        "position": "MID",
+        "team": "Real Madrid",
+        "nationality": "England",
+        "id": "foot-2627-ucl-0003",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Arda Güler",
+        "role": "player",
+        "position": "MID",
+        "team": "Real Madrid",
+        "nationality": "Turkey",
+        "id": "foot-2627-ucl-0004",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Thibaut Courtois",
+        "role": "player",
+        "position": "GK",
+        "team": "Real Madrid",
+        "nationality": "Belgium",
+        "id": "foot-2627-ucl-0005",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Éder Militão",
+        "role": "player",
+        "position": "DEF",
+        "team": "Real Madrid",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl-0006",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Yan Diomande",
+        "role": "player",
+        "position": "FWD",
+        "team": "Real Madrid",
+        "nationality": "Ivory Coast",
+        "id": "foot-2627-ucl-0007",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "José Mourinho",
+        "role": "coach",
+        "position": "HC",
+        "team": "Real Madrid",
+        "nationality": "Portugal",
+        "id": "foot-2627-ucl-0008",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "role": "player",
+        "position": "FWD",
+        "team": "Paris Saint-Germain",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0009",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Désiré Doué",
+        "role": "player",
+        "position": "FWD",
+        "team": "Paris Saint-Germain",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0010",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Achraf Hakimi",
+        "role": "player",
+        "position": "DEF",
+        "team": "Paris Saint-Germain",
+        "nationality": "Morocco",
+        "id": "foot-2627-ucl-0011",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Fabián Ruiz",
+        "role": "player",
+        "position": "MID",
+        "team": "Paris Saint-Germain",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0012",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Ferran Torres",
+        "role": "player",
+        "position": "FWD",
+        "team": "Paris Saint-Germain",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0013",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Luis Enrique",
+        "role": "coach",
+        "position": "HC",
+        "team": "Paris Saint-Germain",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0014",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Lamine Yamal",
+        "role": "player",
+        "position": "FWD",
+        "team": "Barcelona",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0015",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Pedri",
+        "role": "player",
+        "position": "MID",
+        "team": "Barcelona",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0016",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Robert Lewandowski",
+        "role": "player",
+        "position": "FWD",
+        "team": "Barcelona",
+        "nationality": "Poland",
+        "id": "foot-2627-ucl-0017",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Raphinha",
+        "role": "player",
+        "position": "FWD",
+        "team": "Barcelona",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl-0018",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Rodri",
+        "role": "player",
+        "position": "MID",
+        "team": "Barcelona",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0019",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Hansi Flick",
+        "role": "coach",
+        "position": "HC",
+        "team": "Barcelona",
+        "nationality": "Germany",
+        "id": "foot-2627-ucl-0020",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Harry Kane",
+        "role": "player",
+        "position": "FWD",
+        "team": "Bayern Munich",
+        "nationality": "England",
+        "id": "foot-2627-ucl-0021",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Jamal Musiala",
+        "role": "player",
+        "position": "MID",
+        "team": "Bayern Munich",
+        "nationality": "Germany",
+        "id": "foot-2627-ucl-0022",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Manuel Neuer",
+        "role": "player",
+        "position": "GK",
+        "team": "Bayern Munich",
+        "nationality": "Germany",
+        "id": "foot-2627-ucl-0023",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Michael Olise",
+        "role": "player",
+        "position": "FWD",
+        "team": "Bayern Munich",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0024",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Erling Haaland",
+        "role": "player",
+        "position": "FWD",
+        "team": "Manchester City",
+        "nationality": "Norway",
+        "id": "foot-2627-ucl-0025",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Enzo Fernández",
+        "role": "player",
+        "position": "MID",
+        "team": "Manchester City",
+        "nationality": "Argentina",
+        "id": "foot-2627-ucl-0026",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Phil Foden",
+        "role": "player",
+        "position": "MID",
+        "team": "Manchester City",
+        "nationality": "England",
+        "id": "foot-2627-ucl-0027",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Rúben Dias",
+        "role": "player",
+        "position": "DEF",
+        "team": "Manchester City",
+        "nationality": "Portugal",
+        "id": "foot-2627-ucl-0028",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Enzo Maresca",
+        "role": "coach",
+        "position": "HC",
+        "team": "Manchester City",
+        "nationality": "Italy",
+        "id": "foot-2627-ucl-0029",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Bukayo Saka",
+        "role": "player",
+        "position": "FWD",
+        "team": "Arsenal",
+        "nationality": "England",
+        "id": "foot-2627-ucl-0030",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Martin Ødegaard",
+        "role": "player",
+        "position": "MID",
+        "team": "Arsenal",
+        "nationality": "Norway",
+        "id": "foot-2627-ucl-0031",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Declan Rice",
+        "role": "player",
+        "position": "MID",
+        "team": "Arsenal",
+        "nationality": "England",
+        "id": "foot-2627-ucl-0032",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Bruno Guimarães",
+        "role": "player",
+        "position": "MID",
+        "team": "Arsenal",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl-0033",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "William Saliba",
+        "role": "player",
+        "position": "DEF",
+        "team": "Arsenal",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0034",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Mikel Arteta",
+        "role": "coach",
+        "position": "HC",
+        "team": "Arsenal",
+        "nationality": "Spain",
+        "id": "foot-2627-ucl-0035",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Virgil van Dijk",
+        "role": "player",
+        "position": "DEF",
+        "team": "Liverpool",
+        "nationality": "Netherlands",
+        "id": "foot-2627-ucl-0036",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Alisson Becker",
+        "role": "player",
+        "position": "GK",
+        "team": "Liverpool",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl-0037",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Dominik Szoboszlai",
+        "role": "player",
+        "position": "MID",
+        "team": "Liverpool",
+        "nationality": "Hungary",
+        "id": "foot-2627-ucl-0038",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Lautaro Martínez",
+        "role": "player",
+        "position": "FWD",
+        "team": "Inter Milan",
+        "nationality": "Argentina",
+        "id": "foot-2627-ucl-0039",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Nicolò Barella",
+        "role": "player",
+        "position": "MID",
+        "team": "Inter Milan",
+        "nationality": "Italy",
+        "id": "foot-2627-ucl-0040",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Antoine Griezmann",
+        "role": "player",
+        "position": "FWD",
+        "team": "Atlético Madrid",
+        "nationality": "France",
+        "id": "foot-2627-ucl-0041",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Julián Álvarez",
+        "role": "player",
+        "position": "FWD",
+        "team": "Atlético Madrid",
+        "nationality": "Argentina",
+        "id": "foot-2627-ucl-0042",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Luka Jović",
+        "role": "player",
+        "position": "FWD",
+        "team": "AEK Athens",
+        "nationality": "Serbia",
+        "id": "foot-2627-ucl-0043",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Eddie Salcedo",
+        "role": "player",
+        "position": "FWD",
+        "team": "OFI",
+        "nationality": "Italy",
+        "id": "foot-2627-sl2-0145",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Taxiarchis Fountas",
+        "role": "player",
+        "position": "MID",
+        "team": "OFI",
+        "nationality": "Greece",
+        "id": "foot-2627-sl2-0146",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Thiago Nuss",
+        "role": "player",
+        "position": "MID",
+        "team": "OFI",
+        "nationality": "Brazil",
+        "id": "foot-2627-sl2-0147",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Borja González",
+        "role": "player",
+        "position": "MID",
+        "team": "OFI",
+        "nationality": "Spain",
+        "id": "foot-2627-sl2-0148",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dušan Vlahović",
+        "role": "player",
+        "position": "FWD",
+        "team": "Juventus",
+        "nationality": "Serbia",
+        "id": "foot-2627-ucl2-0149",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Kenan Yıldız",
+        "role": "player",
+        "position": "FWD",
+        "team": "Juventus",
+        "nationality": "Turkey",
+        "id": "foot-2627-ucl2-0150",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Manuel Locatelli",
+        "role": "player",
+        "position": "MID",
+        "team": "Juventus",
+        "nationality": "Italy",
+        "id": "foot-2627-ucl2-0151",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Serhou Guirassy",
+        "role": "player",
+        "position": "FWD",
+        "team": "Borussia Dortmund",
+        "nationality": "Guinea",
+        "id": "foot-2627-ucl2-0152",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Felix Nmecha",
+        "role": "player",
+        "position": "MID",
+        "team": "Borussia Dortmund",
+        "nationality": "Germany",
+        "id": "foot-2627-ucl2-0153",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Julian Ryerson",
+        "role": "player",
+        "position": "DEF",
+        "team": "Borussia Dortmund",
+        "nationality": "Norway",
+        "id": "foot-2627-ucl2-0154",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Scott McTominay",
+        "role": "player",
+        "position": "MID",
+        "team": "Napoli",
+        "nationality": "Scotland",
+        "id": "foot-2627-ucl2-0155",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Romelu Lukaku",
+        "role": "player",
+        "position": "FWD",
+        "team": "Napoli",
+        "nationality": "Belgium",
+        "id": "foot-2627-ucl2-0156",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Alex Meret",
+        "role": "player",
+        "position": "GK",
+        "team": "Napoli",
+        "nationality": "Italy",
+        "id": "foot-2627-ucl2-0157",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Cole Palmer",
+        "role": "player",
+        "position": "MID",
+        "team": "Chelsea",
+        "nationality": "England",
+        "id": "foot-2627-ucl2-0158",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "João Pedro",
+        "role": "player",
+        "position": "FWD",
+        "team": "Chelsea",
+        "nationality": "Brazil",
+        "id": "foot-2627-ucl2-0159",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Moisés Caicedo",
+        "role": "player",
+        "position": "MID",
+        "team": "Chelsea",
+        "nationality": "Ecuador",
+        "id": "foot-2627-ucl2-0160",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikos Papadopoulos",
+        "role": "player",
+        "position": "GK",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0161",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giannis Kriaras",
+        "role": "player",
+        "position": "GK",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0162",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikola Šipčić",
+        "role": "player",
+        "position": "DEF",
+        "team": "Asteras Tripolis",
+        "nationality": "Montenegro",
+        "id": "foot-2627-ast-0163",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Issiaga Sylla",
+        "role": "player",
+        "position": "DEF",
+        "team": "Asteras Tripolis",
+        "nationality": "Guinea",
+        "id": "foot-2627-ast-0164",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Franz Brorsson",
+        "role": "player",
+        "position": "DEF",
+        "team": "Asteras Tripolis",
+        "nationality": "Sweden",
+        "id": "foot-2627-ast-0165",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikolai Alho",
+        "role": "player",
+        "position": "DEF",
+        "team": "Asteras Tripolis",
+        "nationality": "Finland",
+        "id": "foot-2627-ast-0166",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Chrysanthos Gezos",
+        "role": "player",
+        "position": "MID",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0167",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giannis Bouzoukis",
+        "role": "player",
+        "position": "MID",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0168",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Julián Chicco",
+        "role": "player",
+        "position": "MID",
+        "team": "Asteras Tripolis",
+        "nationality": "Argentina",
+        "id": "foot-2627-ast-0169",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitrios Kourbelis",
+        "role": "player",
+        "position": "MID",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0170",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Federico Macheda",
+        "role": "player",
+        "position": "FWD",
+        "team": "Asteras Tripolis",
+        "nationality": "Italy",
+        "id": "foot-2627-ast-0171",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Nicholas Gioacchini",
+        "role": "player",
+        "position": "FWD",
+        "team": "Asteras Tripolis",
+        "nationality": "USA",
+        "id": "foot-2627-ast-0172",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Nikolaos Kaltsas",
+        "role": "player",
+        "position": "FWD",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0173",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Georgios Charalampoglou",
+        "role": "player",
+        "position": "FWD",
+        "team": "Asteras Tripolis",
+        "nationality": "Greece",
+        "id": "foot-2627-ast-0174",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Milan Rastavac",
+        "role": "coach",
+        "position": "HC",
+        "team": "Asteras Tripolis",
+        "nationality": "Serbia",
+        "id": "foot-2627-ast-0175",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Lucas Anacker",
+        "role": "player",
+        "position": "GK",
+        "team": "Levadiakos",
+        "nationality": "Brazil",
+        "id": "foot-2627-gap-0176",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Jonathan Panzo",
+        "role": "player",
+        "position": "DEF",
+        "team": "Levadiakos",
+        "nationality": "England",
+        "id": "foot-2627-gap-0177",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexandru Pantea",
+        "role": "player",
+        "position": "DEF",
+        "team": "Levadiakos",
+        "nationality": "Romania",
+        "id": "foot-2627-gap-0178",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Giannis Poulos",
+        "role": "player",
+        "position": "DEF",
+        "team": "Levadiakos",
+        "nationality": "Greece",
+        "id": "foot-2627-gap-0179",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "André Moreira",
+        "role": "player",
+        "position": "GK",
+        "team": "Volos",
+        "nationality": "Portugal",
+        "id": "foot-2627-gap-0180",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Carles Soria",
+        "role": "player",
+        "position": "DEF",
+        "team": "Volos",
+        "nationality": "Spain",
+        "id": "foot-2627-gap-0181",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Hjörtur Hermannsson",
+        "role": "player",
+        "position": "DEF",
+        "team": "Volos",
+        "nationality": "Iceland",
+        "id": "foot-2627-gap-0182",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Joca",
+        "role": "player",
+        "position": "MID",
+        "team": "Volos",
+        "nationality": "Portugal",
+        "id": "foot-2627-gap-0183",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexandru Matan",
+        "role": "player",
+        "position": "MID",
+        "team": "Panetolikos",
+        "nationality": "Romania",
+        "id": "foot-2627-gap-0184",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Lazar Kojic",
+        "role": "player",
+        "position": "DEF",
+        "team": "Panetolikos",
+        "nationality": "Serbia",
+        "id": "foot-2627-gap-0185",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Konrad Michalak",
+        "role": "player",
+        "position": "MID",
+        "team": "Panetolikos",
+        "nationality": "Poland",
+        "id": "foot-2627-gap-0186",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Dimitris Pelkas",
+        "role": "player",
+        "position": "MID",
+        "team": "PAOK",
+        "nationality": "Greece",
+        "id": "foot-2627-gap-0187",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Ahmad Mendes Moreira",
+        "role": "player",
+        "position": "FWD",
+        "team": "Kalamata",
+        "nationality": "Netherlands",
+        "id": "foot-2627-gap-0188",
+        "league": "Super League Greece",
+        "photoUrl": null
+      },
+      {
+        "name": "Josep Martínez",
+        "role": "player",
+        "position": "GK",
+        "team": "Inter Milan",
+        "nationality": "Spain",
+        "id": "foot-2627-gap2-0189",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "John Stones",
+        "role": "player",
+        "position": "DEF",
+        "team": "Inter Milan",
+        "nationality": "England",
+        "id": "foot-2627-gap2-0190",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Petar Sučić",
+        "role": "player",
+        "position": "MID",
+        "team": "Inter Milan",
+        "nationality": "Croatia",
+        "id": "foot-2627-gap2-0191",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Luis Henrique",
+        "role": "player",
+        "position": "MID",
+        "team": "Inter Milan",
+        "nationality": "Brazil",
+        "id": "foot-2627-gap2-0192",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Jan Oblak",
+        "role": "player",
+        "position": "GK",
+        "team": "Atlético Madrid",
+        "nationality": "Slovenia",
+        "id": "foot-2627-gap2-0193",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Juan Musso",
+        "role": "player",
+        "position": "GK",
+        "team": "Atlético Madrid",
+        "nationality": "Argentina",
+        "id": "foot-2627-gap2-0194",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "José Giménez",
+        "role": "player",
+        "position": "DEF",
+        "team": "Atlético Madrid",
+        "nationality": "Uruguay",
+        "id": "foot-2627-gap2-0195",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Koke",
+        "role": "player",
+        "position": "MID",
+        "team": "Atlético Madrid",
+        "nationality": "Spain",
+        "id": "foot-2627-gap2-0196",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Marcos Llorente",
+        "role": "player",
+        "position": "MID",
+        "team": "Atlético Madrid",
+        "nationality": "Spain",
+        "id": "foot-2627-gap2-0197",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Álex Baena",
+        "role": "player",
+        "position": "MID",
+        "team": "Atlético Madrid",
+        "nationality": "Spain",
+        "id": "foot-2627-gap2-0198",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Thiago Almada",
+        "role": "player",
+        "position": "MID",
+        "team": "Atlético Madrid",
+        "nationality": "Argentina",
+        "id": "foot-2627-gap2-0199",
+        "league": "UCL",
+        "photoUrl": null
+      },
+      {
+        "name": "Alexander Sørloth",
+        "role": "player",
+        "position": "FWD",
+        "team": "Atlético Madrid",
+        "nationality": "Norway",
+        "id": "foot-2627-gap2-0200",
+        "league": "UCL",
+        "photoUrl": null
+      }
+    ],
+    "2025-2026": [
+      {
+        "id": "foot-2526-0001",
+        "name": "Fran Navarro",
+        "role": "player",
+        "position": "FWD",
+        "team": "Panathinaikos FC",
+        "league": "Super League Greece",
+        "nationality": "Spain",
+        "photoUrl": null
+      },
+      {
+        "id": "foot-2526-0002",
+        "name": "Rui Vitoria",
+        "role": "coach",
+        "position": "HC",
+        "team": "Olympiacos FC",
+        "league": "Super League Greece",
+        "nationality": "Portugal",
+        "photoUrl": null
+      }
+    ]
+  }
+}

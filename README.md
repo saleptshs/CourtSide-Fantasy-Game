@@ -7,6 +7,8 @@ Local, single-device fantasy auction app for παρέες. Ο Host τρέχει 
 ## 📲 Εγκατάσταση σε Android (APK)
 
 Μπορείτε να κατεβάσετε και να εγκαταστήσετε την εφαρμογή απευθείας στο Android κινητό σας!
+* Πηγαίνετε στη σελίδα **[Releases](../../releases)** του repository.
+* Επιλέξτε την τελευταία έκδοση και κατεβάστε το αρχείο **`.apk`** από την ενότητα **Assets**.
 
 ## Δεύτερος Τρόπος (Expo / χωρίς Xcode ή Android Studio)
 
